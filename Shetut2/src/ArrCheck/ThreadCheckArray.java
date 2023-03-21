@@ -2,6 +2,8 @@ package ArrCheck;
 
 import java.util.ArrayList;
 
+//check if you see
+
 public class ThreadCheckArray implements Runnable 
 {
 	private boolean flag;
